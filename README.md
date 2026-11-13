@@ -2,7 +2,7 @@
 
 i'm the hardware captain (and [logo designer](https://github.com/BrowningUltro-10539/Branding-Assets)) of [Ultro Robotics™](https://github.com/BrowningUltro-10539/), but i also love working on software in my free time!
 
-i love learning how computers work at any layer, from web applications to low-level userspace. and when i can, i contribute back to projects i learn about and use.
+i love learning how computers work at any layer, from web applications to low-level userspace. and when i can, i [contribute](https://github.com/systemd/systemd/pull/43063) [back](https://github.com/privatenumber/pkgroll/pull/128) to projects i learn about and use.
 
 if you're interested in my own projects, i recommend checking out these pinned repositories:
 - [fabrica](https://github.com/BrowningUltro-10539/fabrica): a parts search engine for FTC featuring novel isomorphic search and build-time incremental database generation.
